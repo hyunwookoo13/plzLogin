@@ -16,7 +16,7 @@
     <table id="edit">
         <tr><td>category:</td><td><form:input path="category"/></td></tr>
         <tr><td>Title:</td><td><form:input path="title"/></td></tr>
-        <tr><td>Writer:</td><td><form path="writer"/></td></tr>
+        <tr><td>Writer:</td><td><form:input path="writer"/></td></tr>
         <tr><td>Content:</td><td><form:textarea cols="50" rows="5" path="content"/></td></tr>
     </table>
     <input type="submit" value="수정하기" />

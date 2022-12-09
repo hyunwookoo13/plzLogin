@@ -35,6 +35,7 @@
     </script>
 </head>
 <body>
+<button type="button" onclick="location.href='../login/logout'"> 로그아웃 </button>
 <h1>자유게시판</h1>
 <table id="list" width="90%">
 <tr>
